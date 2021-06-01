@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ShunChengWu/ShunChengWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Ph.D. candidate at TUM, Germany. Research interests are 3D scene understanding and reconstruction.
+- 🔭 I’m currently working on 
+  - higher-level scene understanding
+  - a novel scene representation
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ShunChengWu&count_private=false&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunChengWu&theme=default&show_icons=true&layout=compact" />
