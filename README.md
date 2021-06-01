@@ -24,5 +24,5 @@ I am a Ph.D. candidate at TUM, Germany. Research interests are 3D scene understa
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShunChengWu&count_private=false&show_icons=false&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunChengWu&theme=default&show_icons=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunChengWu&theme=default&show_icons=true" />
 </a>
